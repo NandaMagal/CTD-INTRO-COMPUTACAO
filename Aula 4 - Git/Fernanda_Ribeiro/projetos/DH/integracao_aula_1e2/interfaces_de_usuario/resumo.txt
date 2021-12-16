@@ -1,0 +1,3 @@
+Uma interface de usuário é o sistema pelo qual as pessoas (usuários) interagem com uma máquina. A interface de usuário inclui componentes de hardware (físico) e software (lógico). As interfaces de usuário existem para vários sistemas, e fornecem um meio de: Entrada, permitindo ao usuário manipular o sistema;
+Qual a interface de usuário?
+A interface de usuário inclui componentes de hardware (físico) e software (lógico). As interfaces de usuário existem para vários sistemas, e fornecem um meio de: Entrada, permitindo ao usuário manipular o sistema; Saída, permitindo ao sistema produzir os efeitos (as respostas) das ações do utilizador

@@ -1,0 +1,69 @@
+Hardware e software são termos usados ​​para representar as estruturas e funções dos dispositivos vinculados às TIC (Tecnologias de Informação e Comunicação). Em vários momentos do dia a dia você utiliza hardware e software, muitas vezes sem nem perceber.
+Hardware e software: você sabe quais as diferenças entre essas tecnologias?
+Hardware e software são termos usados ​​para representar as estruturas e funções dos dispositivos vinculados às TIC (Tecnologias de Informação e Comunicação).
+
+Redator Rock Content
+9 jul, 19 | 3 min read
+Hardware e software
+Em vários momentos do dia a dia você utiliza hardware e software, muitas vezes sem nem perceber.
+
+Sempre que você se conecta a uma rede social, faz ligações do seu celular ou assiste a um filme no computador, entra em contato com diferentes hardware e software. Mas o que eles são e qual é a diferença entre eles?
+
+A seguir, você conhecerá seus recursos e como eles se complementam para que você possa aproveitar seus jogos e aplicativos!
+
+Neste artigo você vai descobrir:
+
+O que é um hardware?
+O que é um software?
+Quais os principais exemplos de hardware e software?
+O que é um hardware?
+O hardware é toda a parte física de um computador — tudo o que você pode ver e tocar. Em geral, eles são divididos em dois grupos:
+
+hardware básico: são todos os elementos fundamentais e indispensáveis ​​para a operação da máquina, como disco rígido ou RAM, por exemplo;
+hardware complementar: como o nome sugere, o hardware complementar agrupa os elementos que não são essenciais para a operação do equipamento e que executam tarefas adicionais específicas, como impressoras e pen drives, por exemplo.
+O que é um software?
+O software é o que permite a comunicação entre o equipamento e o usuário. Hardware e software são inseparáveis ​​e complementares, dois lados da mesma moeda.
+
+O hardware é como um corpo vazio e inanimado e o que chamamos de software é toda a parte digital, isto é, os comandos e instruções processadas pelo computador. Eles são divididos em:
+
+software de sistema: inclui o sistema operacional, drivers de dispositivo e utilitários do sistema;
+software aplicativo: esses são os programas que você usa para executar uma tarefa específica, como processadores de texto ou aplicativos;
+software de programação: ferramentas digitais usadas para criar programas ou desenvolver programas existentes.
+Quais os principais exemplos de hardware e software?
+Para entender melhor o que vimos até agora, vamos ver a seguir alguns exemplos de hardware e software.
+
+Exemplos de hardware
+CPU: responsável por processar todas as informações que entram no equipamento;
+teclado: permite inserir informações na máquina e coordenar seu funcionamento;
+impressora: é um hardware periférico que recebe informações do computador e, com base nessas informações, executa uma determinada tarefa.
+Exemplos de software
+Windows: é o sistema operacional da Microsoft;
+Mozilla Firefox: é um navegador, permite ao usuário acessar sites, fazer downloads etc;
+Adobe Photoshop: É um dos programas de edição de imagem mais usados ​​no mundo.
+É impossível imaginar a direção dos avanços e inovações tecnológicas do futuro, mas certamente hardware e software continuarão a ser a base fundamental de qualquer desenvolvimento nesse sentido.
+
+Enquanto um fornece todo o suporte físico o outro lida com o idioma da máquina e fornece as instruções necessárias para que as tarefas sejam realizadas com eficiência.
+
+Se você estiver interessado em saber mais sobre esse fascinante universo leia também o nosso post sobre Sistema de Informação de Marketing!
+
+Compartilhe
+Redator Rock ContentRock author vector
+Author
+Redator Rock Content
+Inscreva-se em nosso blog
+Acesse, em primeira mão, nossos principais posts diretamente em seu email
+E-mail*
+Posts Relacionados
+menino usando binóculos
+Monitoramento de conteúdo para estratégia de marketing
+altGuest Author
+
+6 séries da Netflix que todo publicitário deve assistir
+altRaphael Pires
+Mais em SEO
+SEO básico: como crescer seu tráfego quando você não sabe nada de SEO
+abril 27, 2018
+SEO e UX: por que a combinação desses conceitos é um pilar das estratégias digitais
+setembro 20, 2019
+SEO para SaaS: como aumentar o crescimento do seu tráfego orgânico e levar o seu SaaS ao próximo nível
+maio 19, 2021

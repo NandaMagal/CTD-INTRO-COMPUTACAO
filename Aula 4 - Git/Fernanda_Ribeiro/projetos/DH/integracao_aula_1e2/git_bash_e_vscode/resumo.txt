@@ -1,0 +1,5 @@
+Git Bash é um aplicativo que fornece experiência de linha de comando Git no Sistema Operacional. É um shell de linha de comando para habilitar git com a linha de comando no sistema.
+ VSCode é um editor de texto que fornece suporte para operações de desenvolvimento e sistemas de controle de versão. 
+ Ele fornece ferramentas para um usuário construir códigos livres de incômodos.
+Git Bash é um aplicativo que fornece experiência de linha de comando Git no Sistema Operacional. É um shell de linha de comando para habilitar git com a linha de comando no sistema.
+ VSCode é um editor de texto que fornece suporte para operações de desenvolvimento e sistemas de controle de versão.

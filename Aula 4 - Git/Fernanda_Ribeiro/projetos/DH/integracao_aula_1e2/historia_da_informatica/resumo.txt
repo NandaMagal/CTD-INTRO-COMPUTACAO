@@ -1,0 +1,42 @@
+Conheça a história da informática.
+Hoje a tecnologia que os hardwares oferecem é sem dúvida algo muito avançado, mas você sabe quais as mudanças e transformações que a informática sofreu até se tonar o que é hoje? Sem dúvidas o texto a seguir, é uma grande aula de história da informática.
+
+Precedentes da informática
+
+Para entender esta grande criação, temos que conhecer alguns fatos que deram vida a informática e tudo teve início em 1622 um matemático inglês William Oughtred, desenvolveu a primeira régua de cálculo. Este foi o ponto de partida para se chegar à informática, só que foi um processo demorado, que foi conquistado com pequenas descobertas.
+ Em 1642, o matemático e filósofo francês Blaise Pascal cria a primeira calculadora do mundo baseado em seus algorítimos.
+ Inicia-se então a partir deste período muitas pesquisas a respeito do assunto, que se aprofunda apenas em 1847, quando o matemático inglês George Boole cria o primeiro sistema binário (0 e 1), isso possibilitou a criação de processadores, que trabalhavam interpretando a sequência de 0 e 1 e a transformando em alguma informação, isso foi realizado pelo norte-americano Herman Hollerith fundador da Tabulating Machine Company, precursora da IBM, ele foi o criador de um processador de dados eletromecânico conhecido como cartão perfurado.
+
+régua de calculo informática
+As primeiras máquinas de calcular
+Em 1623, William Schickard inventou a primeira máquina de calcular mecânica.
+Em 1642, Blaise Pascal criou a máquina de aritmética (batizada Pascaline), uma máquina capaz de efetuar adições e subtrações, destinada a ajudar seu pai, um coletor de impostos e taxas.
+Em 1673, Gottfried Wilhelm Von Leibniz acrescentou à Pascaline a multiplicação e a divisão.
+Em 1834, Charles Babbage inventa a máquina diferencial, que permite avaliar funções. Ao saber que uma máquina de tecelagem (tecelagem de Jacquard) é programada com a ajuda de placas perfuradas, lança-se então na construção de uma máquina de calcular que explora esta ideia revolucionária.
+É em 1820 que aparecem as primeiras calculadoras mecânicas com quatro funções :
+– adição
+– subtração
+– multiplicação
+– divisão
+O primeiro computador do mundo
+O primeiro computador do mundo surge em 1931/1930 quando Vannevar Bush, coordenador de um centro de pesquisa sobre ciência desenvolveu o primeiro computador, que ainda não executava tarefas avançadas, era somente uma simples calculadora analógica.
+
+O sistema analógico permitia gerar sequências numéricas infinitas, o que deixava a grande calculadora muito vulnerável a erros, a solução então foi usar a tecnologia de George Boole, o sistema binário.
+
+Com este sistema qualquer valor gerado pelo computador além de 0 e 1 não seria interpretado pela máquina, que posteriormente seria descartado.
+
+
+Os computadores programáveis
+Em 1938, Konrad Zuse inventa um computador que funciona graças a retransmissões eletromecânicas: o Z3. Este computador é o primeiro a utilizar o binário em vez do decimal.
+
+Em 1937, Howard Aiken aperfeiçoa um computador programável que mede 17 m de comprimento e 2.5 metros de altura, permitindo calcular 5 vezes mais depressa do que o homem :
+É o Mark I de IBM.
+
+Este é constituído por 3300 engrenagens, 1400 comutadores e está ligado com 800 Km de fios elétricos.
+
+Em 1947, o Mark II é construído e as suas engrenagens são substituídas por componentes eletrônicos.
+A guerra e a evolução
+Em 1946 é criado o Eniac, um computador de 30 toneladas, 170m² e 18k de válvulas. Este computador foi responsável para fazer os cálculos no desenvolvimento da bomba atômica, apesar de ser de grande importância ele não era perfeito, sendo que de 2 em 2 minutos era perdida uma válvula por sobrecarga, que resultava na perda de um componente.
+
+O Transistor
+Em 1948, o transístor é criado pela firma Bell Labs (graças aos engenheiros John Bardeen, Walter Brattain e William Shockley). Este permite, nos anos 50, tornar os computadores menos incômodos, menos ávidos em energia eléctrica e por conseguinte menos dispendiosos: é a revolução na história do computador!
